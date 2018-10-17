@@ -9,7 +9,7 @@
 #property strict
 //--- input parameters
 input string   daneWejsciowe="Witaj Wwiecie";
-//+------------------------------------------------------------------+
+//+-------------------------------------------asda-asddasd----------------------+
 //| Expert initialization function                                   |
 //+------------------------------------------------------------------+
 int OnInit()
